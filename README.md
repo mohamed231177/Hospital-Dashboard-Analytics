@@ -27,7 +27,9 @@ An interactive Power BI dashboard designed for "Liceria & Co." to monitor hospit
 <img width="1741" height="731" alt="30 08 2025_03 25 48_REC" src="https://github.com/user-attachments/assets/9545bce6-7a18-40c4-85e1-1f69b7b0c10a" />
 <img width="1740" height="733" alt="30 08 2025_03 26 17_REC" src="https://github.com/user-attachments/assets/c2073342-08e9-4c98-b746-34bf1169dfdb" />
 <img width="1740" height="733" alt="30 08 2025_03 26 38_REC" src="https://github.com/user-attachments/assets/db4e3076-1b03-47d8-9024-701823706bdd" />
-## Final Conclusion 
+
+ ## Final Conclusion 
+ 
 - Operational Excellence: How does this dashboard help hospital management optimize staff scheduling based on shift density?
 
 - Financial Clarity: How does visualizing payment types and total revenue support better cash flow management?
